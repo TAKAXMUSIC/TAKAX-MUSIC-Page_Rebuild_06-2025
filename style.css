@@ -4,6 +4,10 @@ body {
     margin: 0 auto;
 }
 
+html, body {
+  overflow-x: hidden;
+}
+
 header,
 footer {
     background-color: rgb(1, 120, 180);
@@ -94,3 +98,4 @@ a,
 a:visited {
     color: blue;
 }
+
